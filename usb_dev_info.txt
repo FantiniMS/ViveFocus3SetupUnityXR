@@ -1,0 +1,3 @@
+List of devices attached
+FA1842R00356	device
+
